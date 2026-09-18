@@ -1,3 +1,7 @@
+> ⚠️ 本仓已并入 [yjh051108/dsh-omc](https://github.com/yjh051108/dsh-omc)（单仓库化）。
+> 新装：`git clone https://github.com/yjh051108/dsh-omc && cd dsh-omc && ./install.sh`
+> 本仓保留为历史镜像；已 clone 的仍可 pull。
+
 # @dsh-external/dsh-symbiote
 
 共生体：只读观测闭环盘档，算真 C 信誉 / 真 A 注意力税，出蒸馏草稿 —— 学习环的独立器官，**零触碰** closedloop 仓。
