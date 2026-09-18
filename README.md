@@ -1,5 +1,5 @@
-> ⚠️ 本仓已并入 [yjh051108/dsh-omc](https://github.com/yjh051108/dsh-omc)（单仓库化）。
-> 新装：`git clone https://github.com/yjh051108/dsh-omc && cd dsh-omc && ./install.sh`
+> ★ 本仓已并入 [yjh051108/dsh-model-optimum](https://github.com/yjh051108/dsh-model-optimum)（单仓库化）。
+> 那是【「模型单步执行最优」那套（model-fit + symbiote）】。
 > 本仓保留为历史镜像；已 clone 的仍可 pull。
 
 # @dsh-external/dsh-symbiote
